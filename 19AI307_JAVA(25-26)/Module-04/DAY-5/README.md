@@ -27,8 +27,8 @@ To write a Java program that demonstrates a Behavioral Pattern using the Factory
  ```
 /*
 Program to implement a Behaviour Pattern using Java
-Developed by: Gedipudi Darshani
-RegisterNumber:212223230062
+Developed by: Karnala Santhan Kumar
+Register Number:212223240065
 */
 ```
 
