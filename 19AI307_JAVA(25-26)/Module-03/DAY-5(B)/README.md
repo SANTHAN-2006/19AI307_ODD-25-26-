@@ -20,8 +20,8 @@ To write a Java program that reads a number in string format, converts it into a
  ```
 /*
 Program to implement a Wrapper Class using Java
-Developed by: GEDIPUDI DARSHANI
-RegisterNumber:  212223230062
+Developed by: Karnala Santhan Kumar
+Register Number:212223240065
 */
 ```
 
