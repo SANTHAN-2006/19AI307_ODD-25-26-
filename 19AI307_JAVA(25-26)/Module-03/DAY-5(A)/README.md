@@ -20,8 +20,8 @@ To write a Java program that demonstrates the use of inner classes, where the in
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: GEDIPUDI DARSHANI
-RegisterNumber:  212223230062
+Developed by: Karnala Santhan Kumar
+Register Number:212223240065
 */
 ```
 
